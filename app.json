@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rendering-poc",
+    "slug": "rendering-poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rendering-poc"
+}
